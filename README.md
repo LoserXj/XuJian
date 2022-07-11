@@ -5,6 +5,10 @@
 - 区块链2.0 以太坊
 - 区块链3.0 超级账本
 
+## 编程语言
+1. (可选)以太坊(solidity)
+2. 超级账本fabric: golang/javascript
+3. python
 
 ## 学习资源整合
 
