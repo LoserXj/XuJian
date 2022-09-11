@@ -7,7 +7,7 @@
 1. 综述：Blockchain Data Analysis from the Perspective of Complex Networks: Overview : https://ieeexplore.ieee.org/document/9837004
 2. 综述：A Survey on Blockchain Data Analysis： https://ieeexplore.ieee.org/document/9529901
 3. 综述：A Survey on Blockchain Anomaly Detection Using Data Mining Techniques： https://link.springer.com/chapter/10.1007/978-981-15-2777-7_40#Sec3
-4. 论文：Anti-Money Laundering in Bitcoin: Experimenting with Graph Convolutional Networks for Financial Forensics：https://arxiv.org/abs/1908.02591 ，论文代码：https://github.com/Rufaim/EvolveGCN
+4. 论文：Anti-Money Laundering in Bitcoin: Experimenting with Graph Convolutional Networks for Financial Forensics：https://arxiv.org/abs/1908.02591 ，论文代码：https://github.com/Rufaim/EvolveGCN (tensorflow版本), https://github.com/advaitrane/GCN_Elliptic-Dataset (pytorch版本)
 ## 图神经网络
 1. 李毅宏深度学习(p30,p31)：https://www.bilibili.com/video/BV1m3411p7wD?p=30&vd_source=3fc2ca25dd07964a42b87b158d07eeed
 2. 图神经网络论文解读：https://www.bilibili.com/video/BV1iT4y1d7zP?spm_id_from=333.337.search-card.all.click&vd_source=3fc2ca25dd07964a42b87b158d07eeed
